@@ -1,5 +1,9 @@
 # Sandwich Club Project Starter Code
 
+## Major Highlights
+Retrieving an array of strings which is given as a value to a key in Json Object.
+JSON parsing to an object 
+
 ## Project Overview
 In this project, you will complete the **Sandwich Club** app to
 show the details of each sandwich once it is selected.
